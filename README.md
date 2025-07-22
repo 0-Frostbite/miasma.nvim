@@ -1,6 +1,6 @@
 # miasma.nvim ☁️
 
-Fork of [xero/miasma.nvim](https://github.com/xero/miasma.nvim) with added transparency option
+Fork of [xero/miasma.nvim](https://github.com/xero/miasma.nvim) with added transparency option  
 a color scheme for `{neo,}vim` inspired by the woods, built using [lush](https://github.com/rktjmp/lush.nvim) 👄
 
 supports treesitter, gitsigns, lazy, which-key, telescope, lsp diagnostics, and more.
